@@ -2,15 +2,18 @@
             color: rgb(17, 192, 204);
         }
 
-        h2 {
+        h3, h2 {
             font-family: 'Slabo 27px', serif;
             text-transform: uppercase;
-            font-weight: bold;
+            font-weight: normal;
         }
-        h3{
+        /*h3{
         	text-align: center;
-        }
+        }*/
         img{
             width:80%;
             height: 200px;
+        }
+        p{
+            font-family: 'Saira', serif;
         }
